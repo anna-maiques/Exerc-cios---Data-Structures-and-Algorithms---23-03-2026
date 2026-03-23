@@ -1,1 +1,1 @@
-# Exerc-cios---Data-Structures-and-Algorithms---23-03-2026
+# Exercicios---Data-Structures-and-Algorithms---23-03-2026
